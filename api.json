@@ -1,0 +1,44 @@
+[
+  {
+    "precio": 500,
+    "id": 1,
+    "title": "Café",
+    "descripcion": "Café de Grano de Colombia",
+    "thumbnailUrl": "https://picsum.photos/id/0/600"
+  },
+  {
+    "precio": 1000,
+    "id": 2,
+    "title": "Pizza",
+    "descripcion": "Muzzarela",
+    "thumbnailUrl": "https://picsum.photos/id/10/600"
+  },
+  {
+    "precio": 2000,
+    "id": 3,
+    "title": "Agua",
+    "descripcion": "Mineral",
+    "thumbnailUrl": "https://picsum.photos/id/20/600"
+  },
+  {
+    "precio": 500,
+    "id": 4,
+    "title": "Sandía",
+    "descripcion": "En rodajas",
+    "thumbnailUrl": "https://picsum.photos/id/30/600"
+  },
+  {
+    "precio": 1000,
+    "id": 5,
+    "title": "Mango",
+    "descripcion": "Paraguato",
+    "thumbnailUrl": "https://picsum.photos/id/40/600"
+  },
+  {
+    "precio": 1500,
+    "id": 6,
+    "title": "Cerveza",
+    "descripcion": "Coronita",
+    "thumbnailUrl": "https://picsum.photos/id/50/600"
+  }
+]
